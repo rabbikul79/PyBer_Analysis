@@ -13,7 +13,7 @@ A project to create a script using Panda to analyze data for Pyber ride sharing 
 
 2. Below is comparision chart for the total weekly fare for all the city type. As like the summery report this also refelcts the urban cities generates highest revenue per week, between $2,000 - $2,500 per week where suburban citis generates just above $1,000 and rural cities stay belo $500 in weekly revenue. The graph also shows mid March the fare rises for all cities.
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/85530486/126056258-2d6be2db-95c1-4307-b1d2-cc3d8adb1f36.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/85530486/126083781-30753118-427e-4b84-a422-7ba68df8d99e.png)
 
 
 ## Summary
